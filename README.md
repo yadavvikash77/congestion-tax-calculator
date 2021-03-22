@@ -1,5 +1,5 @@
 # congestion-tax-calculator
-Files That application read from outside of the application...Keep these files in your machine & chan
+Files That application read from outside of the application...Keep these files in your machine & change path of the files in the application before build & run
 1] allowedVehicle.json
 2] holidayCalendar.json
 3] timeSlot.json
