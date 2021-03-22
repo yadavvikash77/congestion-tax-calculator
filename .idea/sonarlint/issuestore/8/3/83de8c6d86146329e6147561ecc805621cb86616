@@ -1,0 +1,10 @@
+
+[
+java:S1155V">Use isEmpty() to check whether the collection is empty or not.(”ÒÉè8¯üÛÃ…/
+o
+java:S3776q"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(æÃº«8ç×§³…/
+C	java:S131y""Add a default case to this switch.(ü‰÷²úÿÿÿÿ8ç×§³…/
+`
+java:S1155_">Use isEmpty() to check whether the collection is empty or not.(Ğ¦ßüÿÿÿÿ8Ø€ÏÃ…/
+o
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(Ï¡›Ì8™üˆ¯…/
